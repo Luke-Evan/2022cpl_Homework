@@ -1,0 +1,17 @@
+C:\Users\Estrella\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Estrella/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/win/ninja.exe -G Ninja -S D:\2022cpl2\9-more-pointers -B D:\2022cpl2\9-more-pointers\cmake-build-debug
+CMake Warning (dev) in CMakeLists.txt:
+  No project() argv is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() argv.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" argv on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/2022cpl2/9-more-pointers/cmake-build-debug

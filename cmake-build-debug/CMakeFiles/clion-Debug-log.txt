@@ -1,0 +1,8 @@
+C:\Users\Estrella\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Estrella/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/win/ninja.exe -G Ninja -S D:\Codes\untitled -B D:\Codes\untitled\cmake-build-debug
+CMake Error at CMakeLists.txt:18 (add_subdirectory):
+  add_subdirectory given source "project-1" which is not an existing
+  directory.
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/Codes/untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log".

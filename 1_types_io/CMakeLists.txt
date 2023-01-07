@@ -1,0 +1,8 @@
+add_executable(money-change money-change.c)
+add_executable(pi pi.c)
+add_executable(time time.c)
+add_executable(ascii ascii.c)
+add_executable(reverse reverse.c)
+add_executable(gravity gravity.c)
+add_executable(julian julian.c)
+add_executable(equation equation.c)

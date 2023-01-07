@@ -1,0 +1,4 @@
+D:/2022cpl2/9-more-pointers/cmake-build-debug/CMakeFiles/strcat.dir
+D:/2022cpl2/9-more-pointers/cmake-build-debug/CMakeFiles/tokenizer.dir
+D:/2022cpl2/9-more-pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/2022cpl2/9-more-pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

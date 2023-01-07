@@ -1,0 +1,6 @@
+add_executable(singal singal.c)
+add_executable(factorial factorial.c)
+add_executable(series series.c)
+add_executable(collatz collatz.c)
+add_executable(obstacle obstacle.c)
+add_executable(inverse2 inverse2.c)

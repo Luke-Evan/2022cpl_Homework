@@ -1,0 +1,7 @@
+add_executable(0-1bit 0-1bit.c)
+add_executable(demical demical.c)
+add_executable(statistics statistics.c)
+add_executable(decimal decimal.c)
+add_executable(josephus josephus.c)
+add_executable(palindrome palindrome.c)
+add_executable(quick-sort quick-sort.c)
