@@ -15,7 +15,6 @@ add_subdirectory(9-more-pointers)
 add_subdirectory(10-struct_11-linkedlist)
 
 add_subdirectory(jj)
-add_subdirectory(project-1)
 
 add_executable(test test.c)
 

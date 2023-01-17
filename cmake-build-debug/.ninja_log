@@ -3,11 +3,11 @@
 2	74	6921053421555983	9-more-pointers/CMakeFiles/tokenizer.dir/tokenizer.c.obj	f2b7691f45ee7c21
 74	170	6921053422491838	9-more-pointers/tokenizer.exe	dd7cbeeb41379799
 62	162	6935043982754558	test.exe	121c8b0f8154ab87
-87	213	6921230791236484	9-more-pointers/parse.exe	52cdfaa8f3603434
 2	58	6935052003722014	10-struct_11-linkedlist/CMakeFiles/polynomial.dir/polynomial.c.obj	29c3dff3bbe8845e
+87	213	6921230791236484	9-more-pointers/parse.exe	52cdfaa8f3603434
+2	299	6936684700493616	project-1/CMakeFiles/dino.dir/dino.c.obj	bbf00cae46f0d444
 299	391	6936684701396134	project-1/dino.exe	29aa4da01f2cc0aa
 2	87	6921230790001260	9-more-pointers/CMakeFiles/parse.dir/parse.c.obj	ef013455b0d2bfee
-2	299	6936684700493616	project-1/CMakeFiles/dino.dir/dino.c.obj	bbf00cae46f0d444
 1	983	6933830361140953	10-struct&11-linkedlist/CMakeFiles/fifa.dir/fifa.c.obj	da4c6e965a7101f8
 2	66	6934023132464430	10-struct_11-linkedlist/CMakeFiles/fifa.dir/fifa.c.obj	c659eb9e4124a14c
 66	163	6934023133422056	10-struct_11-linkedlist/fifa.exe	3c994a0570a3fda1

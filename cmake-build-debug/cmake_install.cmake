@@ -1,4 +1,4 @@
-# Install script for directory: D:/Codes/untitled
+# Install script for directory: D:/Codes/221250170cpl
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,62 +39,57 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/1_types_io/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/1_types_io/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/2_if_for_array/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/2_if_for_array/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/3_for_a_while/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/3_for_a_while/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/4_loops/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/4_loops/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/5_function/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/5_function/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/6-recursion/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/6-recursion/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/7-data-types/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/7-data-types/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/8-pointer/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/8-pointer/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/9-more-pointers/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/9-more-pointers/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/10-struct_11-linkedlist/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/10-struct_11-linkedlist/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/jj/cmake_install.cmake")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
-  include("D:/Codes/untitled/cmake-build-debug/project-1/cmake_install.cmake")
+  include("D:/Codes/221250170cpl/cmake-build-debug/jj/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -105,5 +100,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Codes/untitled/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Codes/221250170cpl/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
