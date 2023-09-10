@@ -1,13 +1,14 @@
 # ninja log v5
-1	62	6935043981807724	CMakeFiles/test.dir/test.c.obj	f46f8895172ededa
+2	68	6984771062542037	CMakeFiles/test.dir/test.c.obj	af00cb2b28c04876
 2	74	6921053421555983	9-more-pointers/CMakeFiles/tokenizer.dir/tokenizer.c.obj	f2b7691f45ee7c21
 74	170	6921053422491838	9-more-pointers/tokenizer.exe	dd7cbeeb41379799
-62	162	6935043982754558	test.exe	121c8b0f8154ab87
-2	58	6935052003722014	10-struct_11-linkedlist/CMakeFiles/polynomial.dir/polynomial.c.obj	29c3dff3bbe8845e
-87	213	6921230791236484	9-more-pointers/parse.exe	52cdfaa8f3603434
-2	299	6936684700493616	project-1/CMakeFiles/dino.dir/dino.c.obj	bbf00cae46f0d444
+69	174	6984771063570747	test.exe	96fb92a5f7ec56d
 299	391	6936684701396134	project-1/dino.exe	29aa4da01f2cc0aa
 2	87	6921230790001260	9-more-pointers/CMakeFiles/parse.dir/parse.c.obj	ef013455b0d2bfee
+2	299	6936684700493616	project-1/CMakeFiles/dino.dir/dino.c.obj	bbf00cae46f0d444
+87	213	6921230791236484	9-more-pointers/parse.exe	52cdfaa8f3603434
+2	58	6935052003722014	10-struct_11-linkedlist/CMakeFiles/polynomial.dir/polynomial.c.obj	29c3dff3bbe8845e
+71	187	6984320841641762	sort/insert.exe	ad97a4081d138759
 1	983	6933830361140953	10-struct&11-linkedlist/CMakeFiles/fifa.dir/fifa.c.obj	da4c6e965a7101f8
 2	66	6934023132464430	10-struct_11-linkedlist/CMakeFiles/fifa.dir/fifa.c.obj	c659eb9e4124a14c
 66	163	6934023133422056	10-struct_11-linkedlist/fifa.exe	3c994a0570a3fda1
@@ -16,3 +17,16 @@
 58	159	6935052004708715	10-struct_11-linkedlist/polynomial.exe	884fc868168abf1f
 1	95	6935768643868088	10-struct_11-linkedlist/CMakeFiles/file_management.dir/file_management.c.obj	b79b4aec1df061e8
 95	199	6935768644885482	10-struct_11-linkedlist/file_management.exe	15e8c57ef07fcb1f
+1	90	6956660086873426	7-data-types/CMakeFiles/cuboid.dir/cuboid.c.obj	a4ff7cacac0fe185
+90	312	6956660089066422	7-data-types/cuboid.exe	40fcc0e31e4a73e1
+80	198	6984332700021709	no1.exe	ebf6b4f19a7666fd
+78	208	6984243975996974	no2.exe	79d6a161b0d991c0
+67	178	6984257013005253	no3.exe	a46f08f7575a41bd
+67	181	6984297763337265	no4.exe	335275fdeed510fc
+0	74	6984307284123160	sort/CMakeFiles/bubble.dir/bubble.c.obj	3fccad6e621fae47
+74	195	6984307285291239	sort/bubble.exe	aa77324129acd0d1
+2	71	6984320840552442	sort/CMakeFiles/insert.dir/insert.c.obj	7ae653aa0aeb2471
+2	71	6984971855309889	sort/CMakeFiles/gui_bing.dir/gui_bing.c.obj	a9c8c6c64d8e8ae3
+71	183	6984971856397521	sort/gui_bing.exe	762631fbb19c12c5
+2	75	6991064378505594	sort/CMakeFiles/selection.dir/selection.c.obj	fb69590173692426
+75	186	6991064379588764	sort/selection.exe	78c6bf33069bcfa7

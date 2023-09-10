@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.23)
-project(untitled C)
+project(homework C)
 
 set(CMAKE_C_STANDARD 99)
 
@@ -16,5 +16,6 @@ add_subdirectory(10-struct_11-linkedlist)
 
 add_subdirectory(jj)
 
-add_executable(test test.c)
+add_subdirectory(sort)
 
+add_executable(test test.c)

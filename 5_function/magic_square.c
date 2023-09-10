@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int Cube(int n);
+void Cube(int n);
 
 int square[1001][1001]={0};
 
@@ -16,7 +16,7 @@ int main(){
     return 0;
 }
 
-int Cube(int n){
+void Cube(int n){
     int y = 0;
     int x = (n - 1) / 2;
     square[x][y] = 1;
@@ -50,6 +50,4 @@ int Cube(int n){
             square[x][y] = i;
         }
     }
-
-    return square;
 }

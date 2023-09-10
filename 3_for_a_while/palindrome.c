@@ -7,6 +7,7 @@ int main(){
     scanf("%d",&n);
     getchar();
     gets(in);
+    //解决单边问号
     for(int i=0;i<n;i++) {
         if (in[i] == '?')in[i] = in[n - i - 1];
     }
